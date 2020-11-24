@@ -1,0 +1,43 @@
+.number {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    border: 1px black solid;
+    width: 350px;
+    height: 375px;
+  }
+  
+  .addBtn {
+    padding: 5px;  
+  }
+  
+  .subBtn {
+    padding: 5px;
+  }
+  
+  .add {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 200px;
+  }
+  
+  .sub {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 200px
+  }
+  
+  .numDisplay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px black solid;
+    height: 290px;
+    width: 300px;
+    font-size: 200px;
+  }
